@@ -23,18 +23,18 @@ Frontend deployed on Vercel:
 ## 📁 File Structure
 
 codechef_profile_card/
-├─ frontend/ # Frontend files
-│ ├─ index.html # Main HTML file
-│ ├─ codechef.css # Stylesheet
-│ ├─ codechefCard.js # JavaScript for profile card
-│ ├─ CodechefLogo.png # Logo image
-│ ├─ .vercel/ # Vercel deployment config
-│ └─ .gitignore
-├─ backend/ # Optional backend files
-│ ├─ demo.js # Express server 
-│ └─ other backend files (like package.json and vercel.json)
-├─ .gitignore
-└─ README.md
+├─ frontend/ # Frontend files 
+│ ├─ index.html # Main HTML file 
+│ ├─ codechef.css # Stylesheet 
+│ ├─ codechefCard.js # JavaScript for profile card 
+│ ├─ CodechefLogo.png # Logo image 
+│ ├─ .vercel/ # Vercel deployment config 
+│ └─ .gitignore 
+├─ backend/ # Optional backend files 
+│ ├─ demo.js # Express server  
+│ └─ other backend files (like package.json and vercel.json) 
+├─ .gitignore 
+└─ README.md 
 
 
 ---
@@ -70,3 +70,4 @@ cd codechef_profile_card
 - Fork the repository
 - Make your changes
 - Open a Pull Request
+
